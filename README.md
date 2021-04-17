@@ -1,4 +1,4 @@
-# Italy-Quake-Map
+# Italy-Quake-Maps
 
 Data from ....
 
