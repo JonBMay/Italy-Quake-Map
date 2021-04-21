@@ -4,6 +4,15 @@ Earthquake data from ....
 GeoJson data from ....
 
 
+Rovida A., Locati M., Camassi R., Lolli B., Gasperini P. (eds), 2019. Italian Parametric Earthquake Catalogue (CPTI15), version 2.0. Istituto Nazionale di Geofisica e Vulcanologia (INGV). https://doi.org/10.13127/CPTI/CPTI15.2
+
+
+CPTI15 is openly available via its dedicated website at http://emidius.mi.ingv.it/CPTI15-DBMI15, and the “web service” via the Italian Archive of Historical Earthquake Data (ASMI; https://emidius.mi.ingv.it/ASMI/services/).
+CPTI15 is a scientific product released by Istituto Nazionale di Geofisica (INGV) that required several years of work, and makes available data released by various authors from different institutions.
+CPTI15 can be used for scientific purposes, and the source must always be cited.
+
+
+
 I include already cleaned and combined geojson files for Italian Regions, Provinces and Municipalities.
 The file CleanNames.ipynb contains the code which makes the required changes to the names, it is only needed if a newer version of the geojson file is produced using the same naming.
 
