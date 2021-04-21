@@ -33,7 +33,7 @@ B.ipynb:
 ## Notes for users
   - Within each Python cell I use '##' to denote labels used to separate code and '#' to comment optional commands which may be used as needed.  
   - The user should check that the files and directories expected inside the cells match those that exist on their system.  
-  - The current setup expects the following directories: 'Epicentee' containing the CSV epicenter file(s); 'geojson-italy-master' which contains 'geojson' which contains the geojson files; 'Maps' which is where the saved html map files are stored.  
+  - The current setup expects the following directories: 'Epicenter' containing the CSV epicenter file(s); 'geojson-italy-master' which contains 'geojson' which contains the geojson files; 'Maps' which is where the saved html map files are stored.  
   - I have provided the necessary input files for Part B which allows the testing of the plotting without the need of Part A.  
   - Files needed for Part A are also provided, however some files which may be produced by Part A but are not required in Part B are not provided and must be generated using Part A.  
   - In some cases the maps generated in Part B may not display properly due to plotting complexity, however the saved html file is correct.  
