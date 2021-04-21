@@ -18,10 +18,11 @@ I have removed the topojson directory as it was not needed for this work.
 The file CleanNames.ipynb contains the code which makes some required changes to the region, province and municipality names, it is only needed if a newer version of the geojson files are produced using the same naming.
 I include already cleaned and combined geojson files for Italian Regions, Provinces and Municipalities: 'IT_regions.json', 'IT_provinces.json', 'IT_municipalities.json'.
 
-A.ipynb: reads data from CSV input file(s)  
-  - 	 removes any duplicates and entries with NaN values within required fields  
-  - 	 matches each epicenter to a region/province/municipality using geojson files & optionaly filters by magnitude  
-  - 	 writes generated dataframe into a csv file  
+A.ipynb: 
+  - reads data from CSV input file(s)  
+  - removes any duplicates and entries with NaN values within required fields  
+  - matches each epicenter to a region/province/municipality using geojson files & optionaly filters by magnitude  
+  - writes generated dataframe into a csv file  
 
 B.ipynb: reads municipalty.csv file  
 	 filters plotting area using regions/provinces  
