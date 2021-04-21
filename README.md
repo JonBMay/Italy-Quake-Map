@@ -24,9 +24,10 @@ A.ipynb:
   - matches each epicenter to a region/province/municipality using geojson files & optionaly filters by magnitude  
   - writes generated dataframe into a csv file  
 
-B.ipynb: reads municipalty.csv file  
-	 filters plotting area using regions/provinces  
-	 creates an interactive map with coloured municipalities based on the number of earthquakes & includes points showing epicentral locations  
+B.ipynb: 
+  - reads municipalty.csv file  
+  - filters plotting area using regions/provinces
+  - creates an interactive map with coloured municipalities based on the number of earthquakes & includes points showing epicentral locations  
 
 
 ## Notes for users
