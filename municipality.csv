@@ -1,0 +1,555 @@
+Lat,Lon,Mw,reg_name,reg_istat,prov_name,prov_istat,munic_name
+42.291,14.347,5.26,Abruzzo,13,Chieti,69,Crecchio
+42.067,14.183,5.06,Abruzzo,13,Chieti,69,Lama dei Peligni
+42.237,14.335,5.41,Abruzzo,13,Chieti,69,Poggiofiorito
+42.117,14.708,5.33,Abruzzo,13,Chieti,69,Vasto
+41.793,13.632,5.24,Abruzzo,13,L'Aquila,66,Balsorano
+42.308,13.585,5.54,Abruzzo,13,L'Aquila,66,Barisciano
+42.473,13.274,5.2,Abruzzo,13,L'Aquila,66,Cagnano Amiterno
+42.019,14.026,5.15,Abruzzo,13,L'Aquila,66,Campo di Giove
+42.569,13.302,5.33,Abruzzo,13,L'Aquila,66,Campotosto
+42.526,13.296,5.33,Abruzzo,13,L'Aquila,66,Capitignano
+42.545,13.276,5.33,Abruzzo,13,L'Aquila,66,Capitignano
+42.531,13.283,5.7,Abruzzo,13,L'Aquila,66,Capitignano
+42.317,13.498,5.04,Abruzzo,13,L'Aquila,66,Fossa
+42.309,13.510,6.29,Abruzzo,13,L'Aquila,66,Fossa
+42.303,13.486,5.54,Abruzzo,13,L'Aquila,66,Fossa
+42.351,13.399,5.56,Abruzzo,13,L'Aquila,66,L'Aquila
+42.351,13.399,5.33,Abruzzo,13,L'Aquila,66,L'Aquila
+42.292,13.397,5.09,Abruzzo,13,L'Aquila,66,L'Aquila
+42.466,13.461,5.25,Abruzzo,13,L'Aquila,66,L'Aquila
+42.360,13.328,5.07,Abruzzo,13,L'Aquila,66,L'Aquila
+42.336,13.387,5.08,Abruzzo,13,L'Aquila,66,L'Aquila
+42.489,13.351,5.39,Abruzzo,13,L'Aquila,66,L'Aquila
+42.504,13.350,5.21,Abruzzo,13,L'Aquila,66,L'Aquila
+42.498,13.377,5.02,Abruzzo,13,L'Aquila,66,L'Aquila
+42.097,13.316,5.68,Abruzzo,13,L'Aquila,66,Magliano de' Marsi
+42.503,13.277,5.63,Abruzzo,13,L'Aquila,66,Montereale
+41.841,13.466,5.2,Abruzzo,13,L'Aquila,66,Morino
+42.076,14.080,6.84,Abruzzo,13,L'Aquila,66,Pacentro
+42.079,14.093,5.9,Abruzzo,13,L'Aquila,66,Pacentro
+41.983,13.600,5.02,Abruzzo,13,L'Aquila,66,Pescina
+42.434,13.292,6.67,Abruzzo,13,L'Aquila,66,Pizzoli
+42.463,13.385,5.09,Abruzzo,13,L'Aquila,66,Pizzoli
+42.308,13.543,6.5,Abruzzo,13,L'Aquila,66,Poggio Picenze
+42.333,13.777,5.12,Abruzzo,13,L'Aquila,66,Villa Santa Lucia degli Abruzzi
+42.547,13.457,5.69,Abruzzo,13,Teramo,67,Crognaleto
+42.659,13.703,5.1,Abruzzo,13,Teramo,67,Teramo
+42.529,13.646,5.42,Abruzzo,13,Teramo,67,Tossicia
+40.523,16.130,5.18,Basilicata,17,Matera,77,Accettura
+40.534,16.427,5.09,Basilicata,17,Matera,77,Ferrandina
+40.520,15.726,5.74,Basilicata,17,Potenza,76,Abriola
+40.738,15.741,5.77,Basilicata,17,Potenza,76,Avigliano
+40.960,15.669,6.52,Basilicata,17,Potenza,76,Barile
+40.142,15.776,5.86,Basilicata,17,Potenza,76,Lagonegro
+40.060,15.949,5.53,Basilicata,17,Potenza,76,Lauria
+40.994,15.653,5.48,Basilicata,17,Potenza,76,Melfi
+40.297,15.991,5.33,Basilicata,17,Potenza,76,Montemurro
+40.862,15.406,6.73,Basilicata,17,Potenza,76,Pescopagano
+40.764,15.800,5.18,Basilicata,17,Potenza,76,Pietragalla
+40.638,15.802,5.8,Basilicata,17,Potenza,76,Potenza
+40.658,15.782,5.19,Basilicata,17,Potenza,76,Potenza
+40.689,15.821,5.08,Basilicata,17,Potenza,76,Potenza
+40.082,15.786,5.53,Basilicata,17,Potenza,76,Rivello
+40.231,16.009,5.46,Basilicata,17,Potenza,76,San Martino d'Agri
+40.961,15.818,5.8,Basilicata,17,Potenza,76,Venosa
+39.930,16.105,5.56,Basilicata,17,Potenza,76,Viggianello
+39.995,16.036,5.01,Basilicata,17,Potenza,76,Viggianello
+38.939,16.456,5.1,Calabria,18,Catanzaro,79,Amato
+38.568,16.524,5.33,Calabria,18,Catanzaro,79,Badolato
+38.905,16.594,5.1,Calabria,18,Catanzaro,79,Catanzaro
+38.704,16.354,5.88,Calabria,18,Catanzaro,79,Chiaravalle Centrale
+39.027,16.283,5.1,Calabria,18,Catanzaro,79,Conflenti
+38.652,16.518,5.7,Calabria,18,Catanzaro,79,Davoli
+39.040,16.781,5.74,Calabria,18,Catanzaro,79,Petronà
+38.925,16.373,5.8,Calabria,18,Catanzaro,79,Pianopoli
+38.851,16.456,6.07,Calabria,18,Catanzaro,79,San Floro
+38.632,16.491,5.8,Calabria,18,Catanzaro,79,San Sostene
+39.132,16.081,5.1,Calabria,18,Cosenza,78,Amantea
+39.531,16.239,5.64,Calabria,18,Cosenza,78,Bisignano
+39.375,16.279,5.89,Calabria,18,Cosenza,78,Castiglione Cosentino
+39.220,16.331,6.24,Calabria,18,Cosenza,78,Cellara
+39.564,16.221,5.55,Calabria,18,Cosenza,78,Cervicati
+39.540,16.588,5.33,Calabria,18,Cosenza,78,Corigliano-Rossano
+39.303,16.252,5.1,Calabria,18,Cosenza,78,Cosenza
+39.303,16.252,5.33,Calabria,18,Cosenza,78,Cosenza
+39.256,16.295,6.34,Calabria,18,Cosenza,78,Cosenza
+39.567,16.737,6.18,Calabria,18,Cosenza,78,Cropalati
+39.330,16.293,5.89,Calabria,18,Cosenza,78,Lappano
+39.395,16.193,6.75,Calabria,18,Cosenza,78,Montalto Uffugo
+39.873,16.157,5.27,Calabria,18,Cosenza,78,Morano Calabro
+39.874,16.015,5.31,Calabria,18,Cosenza,78,Mormanno
+39.338,16.191,5.57,Calabria,18,Cosenza,78,Rende
+39.279,16.812,6.76,Calabria,18,Crotone,101,Castelsilano
+39.079,16.919,6.65,Calabria,18,Crotone,101,San Mauro Marchesato
+38.293,16.210,5.1,Calabria,18,Reggio di Calabria,80,Canolo
+38.288,15.870,6.12,Calabria,18,Reggio di Calabria,80,Melicuccà
+38.391,15.875,5.1,Calabria,18,Reggio di Calabria,80,Palmi
+38.099,15.684,5.56,Calabria,18,Reggio di Calabria,80,Reggio di Calabria
+38.086,15.985,5.96,Calabria,18,Reggio di Calabria,80,Samo
+38.055,16.073,5.22,Calabria,18,Reggio di Calabria,80,Sant'Agata del Bianco
+38.694,16.249,6.57,Calabria,18,Vibo Valentia,102,Filogaso
+38.580,16.201,6.74,Calabria,18,Vibo Valentia,102,Gerocarne
+38.686,15.936,5.87,Calabria,18,Vibo Valentia,102,Parghelia
+38.526,15.996,5.1,Calabria,18,Vibo Valentia,102,San Calogero
+38.675,15.899,5.33,Calabria,18,Vibo Valentia,102,Tropea
+38.675,15.899,5.1,Calabria,18,Vibo Valentia,102,Tropea
+38.636,16.268,6.14,Calabria,18,Vibo Valentia,102,Vazzano
+41.158,15.065,5.34,Campania,15,Avellino,64,Ariano Irpino
+40.898,15.421,5.76,Campania,15,Avellino,64,Calitri
+40.890,15.439,5.22,Campania,15,Avellino,64,Calitri
+40.818,15.215,5.6,Campania,15,Avellino,64,Caposele
+40.842,15.283,6.81,Campania,15,Avellino,64,Caposele
+40.811,15.268,5.04,Campania,15,Avellino,64,Caposele
+40.832,15.244,5.32,Campania,15,Avellino,64,Caposele
+41.011,15.210,5.33,Campania,15,Avellino,64,Carife
+41.064,15.059,6.75,Campania,15,Avellino,64,Grottaminarda
+40.903,15.196,5.88,Campania,15,Avellino,64,Lioni
+41.134,15.028,5.18,Campania,15,Avellino,64,Melito Irpino
+41.049,14.970,5.44,Campania,15,Avellino,64,Mirabella Eclano
+41.248,15.069,5.68,Campania,15,Avellino,64,Montecalvo Irpino
+40.920,14.661,5.1,Campania,15,Avellino,64,Monteforte Irpino
+41.068,15.318,6.67,Campania,15,Avellino,64,Vallata
+41.120,14.989,6.56,Campania,15,Benevento,62,Apice
+41.108,14.924,5.26,Campania,15,Benevento,62,Apice
+41.131,14.778,5.33,Campania,15,Benevento,62,Benevento
+41.304,14.548,5.8,Campania,15,Benevento,62,Cusano Mutri
+41.230,14.953,6.15,Campania,15,Benevento,62,San Giorgio La Molara
+41.395,14.434,5.16,Campania,15,Caserta,61,Castello del Matese
+41.002,14.393,5.1,Campania,15,Caserta,61,Maddaloni
+41.377,13.917,5.8,Campania,15,Caserta,61,Rocca d'Evandro
+41.283,13.986,5.16,Campania,15,Caserta,61,Roccamonfina
+40.926,14.529,5.56,Campania,15,Napoli,63,Nola
+40.563,15.505,6.72,Campania,15,Salerno,65,Caggiano
+40.108,15.612,5.39,Campania,15,Salerno,65,Casaletto Spartano
+40.765,15.334,5.98,Campania,15,Salerno,65,Laviano
+40.513,15.360,5.15,Campania,15,Salerno,65,Petina
+40.655,15.452,5.39,Campania,15,Salerno,65,Ricigliano
+40.650,15.389,6.34,Campania,15,Salerno,65,San Gregorio Magno
+40.685,14.717,5.56,Campania,15,Salerno,65,Vietri sul Mare
+44.494,11.343,5.33,Emilia-Romagna,8,Bologna,37,Bologna
+44.494,11.343,5.02,Emilia-Romagna,8,Bologna,37,Bologna
+44.567,11.310,5.06,Emilia-Romagna,8,Bologna,37,Calderara di Reno
+44.162,11.037,5.56,Emilia-Romagna,8,Bologna,37,Castel di Casio
+44.614,11.670,5.45,Emilia-Romagna,8,Bologna,37,Molinella
+44.579,11.688,5.36,Emilia-Romagna,8,Bologna,37,Molinella
+44.481,11.150,5.36,Emilia-Romagna,8,Bologna,37,Monte San Pietro
+44.255,11.380,5.24,Emilia-Romagna,8,Bologna,37,Monterenzio
+44.443,11.479,5.22,Emilia-Romagna,8,Bologna,37,Ozzano dell'Emilia
+44.401,11.349,5.22,Emilia-Romagna,8,Bologna,37,Pianoro
+44.445,11.387,5.05,Emilia-Romagna,8,Bologna,37,San Lazzaro di Savena
+44.482,11.111,5.1,Emilia-Romagna,8,Bologna,37,Valsamoggia
+44.489,11.110,5.2,Emilia-Romagna,8,Bologna,37,Valsamoggia
+44.479,11.112,5.29,Emilia-Romagna,8,Bologna,37,Valsamoggia
+44.314,11.116,5.43,Emilia-Romagna,8,Bologna,37,Vergato
+44.507,11.230,5.62,Emilia-Romagna,8,Bologna,37,Zola Predosa
+44.496,11.202,5.13,Emilia-Romagna,8,Bologna,37,Zola Predosa
+44.642,11.848,5.43,Emilia-Romagna,8,Ferrara,38,Argenta
+44.604,11.997,5.05,Emilia-Romagna,8,Ferrara,38,Argenta
+44.835,11.620,5.1,Emilia-Romagna,8,Ferrara,38,Ferrara
+44.835,11.620,5.1,Emilia-Romagna,8,Ferrara,38,Ferrara
+44.835,11.620,5.1,Emilia-Romagna,8,Ferrara,38,Ferrara
+44.824,11.632,5.44,Emilia-Romagna,8,Ferrara,38,Ferrara
+44.813,11.440,5.16,Emilia-Romagna,8,Ferrara,38,Terre del Reno
+43.862,11.992,5.97,Emilia-Romagna,8,Forlì-Cesena,40,Bagno di Romagna
+43.917,11.933,5.96,Emilia-Romagna,8,Forlì-Cesena,40,Bagno di Romagna
+44.155,12.229,5.69,Emilia-Romagna,8,Forlì-Cesena,40,Cesena
+44.189,12.193,5.09,Emilia-Romagna,8,Forlì-Cesena,40,Cesena
+44.222,12.040,5.33,Emilia-Romagna,8,Forlì-Cesena,40,Forlì
+44.268,11.987,5.61,Emilia-Romagna,8,Forlì-Cesena,40,Forlì
+44.250,11.970,5.28,Emilia-Romagna,8,Forlì-Cesena,40,Forlì
+44.233,12.121,5.13,Emilia-Romagna,8,Forlì-Cesena,40,Forlì
+43.996,11.912,5.1,Emilia-Romagna,8,Forlì-Cesena,40,Galeata
+44.021,11.898,6.05,Emilia-Romagna,8,Forlì-Cesena,40,Galeata
+44.146,12.046,5.47,Emilia-Romagna,8,Forlì-Cesena,40,Meldola
+44.133,12.062,5.61,Emilia-Romagna,8,Forlì-Cesena,40,Meldola
+44.117,12.074,5.26,Emilia-Romagna,8,Forlì-Cesena,40,Meldola
+44.130,11.919,5.52,Emilia-Romagna,8,Forlì-Cesena,40,Predappio
+44.059,11.829,5.09,Emilia-Romagna,8,Forlì-Cesena,40,Rocca San Casciano
+43.943,11.904,5.99,Emilia-Romagna,8,Forlì-Cesena,40,Santa Sofia
+44.833,11.294,5.33,Emilia-Romagna,8,Modena,36,Finale Emilia
+44.895,11.263,6.09,Emilia-Romagna,8,Modena,36,Finale Emilia
+44.873,11.270,5.17,Emilia-Romagna,8,Modena,36,Finale Emilia
+44.519,10.844,6.05,Emilia-Romagna,8,Modena,36,Fiorano Modenese
+44.595,10.799,5.04,Emilia-Romagna,8,Modena,36,Formigine
+44.365,10.934,5.12,Emilia-Romagna,8,Modena,36,Guiglia
+44.441,10.925,5.1,Emilia-Romagna,8,Modena,36,Marano sul Panaro
+44.841,11.065,5.9,Emilia-Romagna,8,Modena,36,Medolla
+44.674,10.866,5.27,Emilia-Romagna,8,Modena,36,Modena
+44.334,10.834,5.3,Emilia-Romagna,8,Modena,36,Pavullo nel Frignano
+44.859,11.152,5.04,Emilia-Romagna,8,Modena,36,San Felice sul Panaro
+44.865,10.979,5.5,Emilia-Romagna,8,Modena,36,San Possidonio
+44.438,9.725,5.14,Emilia-Romagna,8,Parma,34,Albareto
+44.531,9.948,5.08,Emilia-Romagna,8,Parma,34,Berceto
+44.523,10.009,5.05,Emilia-Romagna,8,Parma,34,Berceto
+44.473,9.825,5.38,Emilia-Romagna,8,Parma,34,Borgo Val di Taro
+44.755,10.265,5.04,Emilia-Romagna,8,Parma,34,Collecchio
+44.906,10.028,5.1,Emilia-Romagna,8,Parma,34,Fidenza
+44.844,10.239,5.56,Emilia-Romagna,8,Parma,34,Fontevivo
+44.655,10.260,5.37,Emilia-Romagna,8,Parma,34,Langhirano
+44.544,10.345,5.36,Emilia-Romagna,8,Parma,34,Neviano degli Arduini
+44.800,10.183,5.06,Emilia-Romagna,8,Parma,34,Noceto
+44.801,10.330,5.1,Emilia-Romagna,8,Parma,34,Parma
+44.696,10.296,5.24,Emilia-Romagna,8,Parma,34,Parma
+44.814,10.345,5.51,Emilia-Romagna,8,Parma,34,Parma
+44.416,11.977,5.23,Emilia-Romagna,8,Ravenna,39,Bagnacavallo
+44.251,11.798,6.12,Emilia-Romagna,8,Ravenna,39,Brisighella
+44.207,11.573,5.67,Emilia-Romagna,8,Ravenna,39,Casola Valsenio
+44.168,11.587,5.03,Emilia-Romagna,8,Ravenna,39,Casola Valsenio
+44.390,11.942,5.84,Emilia-Romagna,8,Ravenna,39,Cotignola
+44.323,11.864,5.02,Emilia-Romagna,8,Ravenna,39,Faenza
+44.260,11.876,5.23,Emilia-Romagna,8,Ravenna,39,Faenza
+44.401,12.035,5.13,Emilia-Romagna,8,Ravenna,39,Russi
+44.798,10.678,5.38,Emilia-Romagna,8,Reggio nell'Emilia,35,Bagnolo in Piano
+44.765,10.494,5.51,Emilia-Romagna,8,Reggio nell'Emilia,35,Campegine
+44.572,10.728,5.13,Emilia-Romagna,8,Reggio nell'Emilia,35,Casalgrande
+44.900,10.719,5.06,Emilia-Romagna,8,Reggio nell'Emilia,35,Guastalla
+44.862,10.671,5.21,Emilia-Romagna,8,Reggio nell'Emilia,35,Novellara
+44.698,10.631,5.1,Emilia-Romagna,8,Reggio nell'Emilia,35,Reggio nell'Emilia
+44.698,10.631,5.33,Emilia-Romagna,8,Reggio nell'Emilia,35,Reggio nell'Emilia
+44.753,10.544,5.48,Emilia-Romagna,8,Reggio nell'Emilia,35,Reggio nell'Emilia
+44.749,10.480,5.11,Emilia-Romagna,8,Reggio nell'Emilia,35,Sant'Ilario d'Enza
+44.612,10.701,5.01,Emilia-Romagna,8,Reggio nell'Emilia,35,Scandiano
+43.941,12.576,5.59,Emilia-Romagna,8,Rimini,99,Montescudo-Monte Colombo
+44.059,12.568,5.33,Emilia-Romagna,8,Rimini,99,Rimini
+44.059,12.568,5.1,Emilia-Romagna,8,Rimini,99,Rimini
+43.991,12.565,5.66,Emilia-Romagna,8,Rimini,99,Rimini
+44.061,12.508,5.04,Emilia-Romagna,8,Rimini,99,Rimini
+46.027,12.589,5.62,Friuli-Venezia Giulia,6,Pordenone,93,Aviano
+46.233,12.706,5.82,Friuli-Venezia Giulia,6,Pordenone,93,Frisanco
+46.150,12.891,5.17,Friuli-Venezia Giulia,6,Pordenone,93,Sequals
+46.306,12.821,5.96,Friuli-Venezia Giulia,6,Pordenone,93,Tramonti di Sotto
+46.297,12.795,5.4,Friuli-Venezia Giulia,6,Pordenone,93,Tramonti di Sotto
+46.374,13.096,5.1,Friuli-Venezia Giulia,6,Udine,30,Amaro
+46.440,12.800,5.26,Friuli-Venezia Giulia,6,Udine,30,Ampezzo
+46.506,13.039,5.04,Friuli-Venezia Giulia,6,Udine,30,Arta Terme
+46.484,13.021,5.21,Friuli-Venezia Giulia,6,Udine,30,Arta Terme
+46.241,13.119,6.45,Friuli-Venezia Giulia,6,Udine,30,Artegna
+46.093,13.431,5.56,Friuli-Venezia Giulia,6,Udine,30,Cividale del Friuli
+46.105,13.478,5.12,Friuli-Venezia Giulia,6,Udine,30,Cividale del Friuli
+46.259,13.104,5.25,Friuli-Venezia Giulia,6,Udine,30,Gemona del Friuli
+46.300,13.174,5.95,Friuli-Venezia Giulia,6,Udine,30,Gemona del Friuli
+46.285,13.203,5.93,Friuli-Venezia Giulia,6,Udine,30,Lusevera
+46.465,13.191,5.31,Friuli-Venezia Giulia,6,Udine,30,Moggio Udinese
+46.490,13.180,5.71,Friuli-Venezia Giulia,6,Udine,30,Moggio Udinese
+46.275,13.198,5.25,Friuli-Venezia Giulia,6,Udine,30,Montenars
+46.213,13.323,5.08,Friuli-Venezia Giulia,6,Udine,30,Nimis
+46.433,12.868,5.7,Friuli-Venezia Giulia,6,Udine,30,Raveo
+46.209,13.216,6.32,Friuli-Venezia Giulia,6,Udine,30,Tarcento
+46.256,13.233,5.6,Friuli-Venezia Giulia,6,Udine,30,Tarcento
+46.504,13.581,6.63,Friuli-Venezia Giulia,6,Udine,30,Tarvisio
+46.398,13.019,5.19,Friuli-Venezia Giulia,6,Udine,30,Tolmezzo
+46.283,13.019,5.26,Friuli-Venezia Giulia,6,Udine,30,Trasaghis
+46.384,13.144,5.27,Friuli-Venezia Giulia,6,Udine,30,Venzone
+46.372,12.975,6.02,Friuli-Venezia Giulia,6,Udine,30,Verzegnis
+46.409,12.912,5.04,Friuli-Venezia Giulia,6,Udine,30,Villa Santina
+46.462,12.982,5.42,Friuli-Venezia Giulia,6,Udine,30,Zuglio
+41.554,13.942,6.8,Lazio,12,Frosinone,60,Acquafondata
+41.710,13.351,5.21,Lazio,12,Frosinone,60,Alatri
+41.686,13.778,5.38,Lazio,12,Frosinone,60,Alvito
+41.719,13.750,5.16,Lazio,12,Frosinone,60,Alvito
+41.635,13.683,6.33,Lazio,12,Frosinone,60,Casalvieri
+41.488,13.831,5.1,Lazio,12,Frosinone,60,Cassino
+41.488,13.831,5.1,Lazio,12,Frosinone,60,Cassino
+41.568,13.334,5.1,Lazio,12,Frosinone,60,Ceccano
+41.568,13.334,5.56,Lazio,12,Frosinone,60,Ceccano
+41.652,13.922,5.22,Lazio,12,Frosinone,60,Picinisco
+41.540,13.867,5.1,Lazio,12,Frosinone,60,Sant'Elia Fiumerapido
+41.655,13.827,5.48,Lazio,12,Frosinone,60,Settefrati
+41.651,13.843,5.47,Lazio,12,Frosinone,60,Settefrati
+41.718,13.613,5.1,Lazio,12,Frosinone,60,Sora
+42.694,13.248,5.33,Lazio,12,Rieti,57,Accumoli
+42.671,13.255,5.1,Lazio,12,Rieti,57,Accumoli
+42.698,13.233,6.18,Lazio,12,Rieti,57,Accumoli
+42.639,13.261,6.21,Lazio,12,Rieti,57,Amatrice
+42.615,13.247,5.9,Lazio,12,Rieti,57,Amatrice
+42.646,13.169,5.5,Lazio,12,Rieti,57,Amatrice
+42.415,13.076,5.1,Lazio,12,Rieti,57,Antrodoco
+42.415,13.076,5.07,Lazio,12,Rieti,57,Antrodoco
+42.407,13.064,5.09,Lazio,12,Rieti,57,Borgo Velino
+42.386,12.949,5.1,Lazio,12,Rieti,57,Cittaducale
+42.270,13.118,6.27,Lazio,12,Rieti,57,Fiamignano
+42.575,12.902,6.26,Lazio,12,Rieti,57,Leonessa
+42.402,12.860,5.1,Lazio,12,Rieti,57,Rieti
+42.414,12.903,5.5,Lazio,12,Rieti,57,Rieti
+42.507,12.853,5.42,Lazio,12,Rieti,57,Rivodutri
+42.092,12.565,5.02,Lazio,12,Roma,58,Castelnuovo di Porto
+41.787,12.677,5.33,Lazio,12,Roma,58,Grottaferrata
+41.798,12.686,5.1,Lazio,12,Roma,58,Grottaferrata
+41.725,12.712,5.14,Lazio,12,Roma,58,Nemi
+42.100,12.736,5.25,Lazio,12,Roma,58,Palombara Sabina
+41.899,12.477,5.1,Lazio,12,Roma,58,Roma
+41.827,12.784,5.06,Lazio,12,Roma,58,San Cesareo
+41.925,13.095,5.33,Lazio,12,Roma,58,Subiaco
+41.925,13.095,5.56,Lazio,12,Roma,58,Subiaco
+41.718,12.725,5.61,Lazio,12,Roma,58,Velletri
+41.831,12.828,5.1,Lazio,12,Roma,58,Zagarolo
+42.613,12.110,5.8,Lazio,12,Viterbo,56,Bagnoregio
+42.614,12.074,5.01,Lazio,12,Viterbo,56,Bagnoregio
+42.793,11.788,5.36,Lazio,12,Viterbo,56,Proceno
+42.252,11.757,5.1,Lazio,12,Viterbo,56,Tarquinia
+43.920,8.034,5.32,Liguria,7,Imperia,8,Imperia
+43.891,7.992,6.27,Liguria,7,Imperia,8,Imperia
+43.855,7.849,5.56,Liguria,7,Imperia,8,Taggia
+45.539,10.220,5.1,Lombardia,3,Brescia,17,Brescia
+45.584,10.490,5.44,Lombardia,3,Brescia,17,Gavardo
+45.404,10.270,5.04,Lombardia,3,Brescia,17,Ghedi
+45.533,10.623,5.68,Lombardia,3,Brescia,17,Moniga del Garda
+45.209,10.169,5.01,Lombardia,3,Cremona,19,Grontardo
+45.424,9.839,5.6,Lombardia,3,Cremona,19,Soncino
+45.226,9.620,5.17,Lombardia,3,Lodi,98,Casalpusterlengo
+45.267,9.550,5.22,Lombardia,3,Lodi,98,Cavenago d'Adda
+45.280,10.644,5.23,Lombardia,3,Mantova,20,Goito
+45.584,9.274,5.33,Lombardia,3,Monza e della Brianza,108,Monza
+44.830,9.131,5.1,Lombardia,3,Pavia,18,Bagnaria
+43.566,13.567,5.56,Marche,11,Ancona,42,Ancona
+43.619,13.513,5.1,Marche,11,Ancona,42,Ancona
+43.550,13.594,5.58,Marche,11,Ancona,42,Ancona
+43.555,13.473,5.15,Marche,11,Ancona,42,Ancona
+43.246,12.853,5.11,Marche,11,Ancona,42,Fabriano
+43.425,13.005,6.17,Marche,11,Ancona,42,Fabriano
+42.758,13.283,5.02,Marche,11,Ascoli Piceno,44,Arquata del Tronto
+42.795,13.267,5.04,Marche,11,Ascoli Piceno,44,Arquata del Tronto
+42.940,13.626,5.67,Marche,11,Ascoli Piceno,44,Castignano
+42.967,13.454,5.48,Marche,11,Fermo,109,Montefalcone Appennino
+42.874,13.124,5.51,Marche,11,Macerata,43,Castelsantangelo sul Nera
+43.089,13.244,5.85,Marche,11,Macerata,43,Cessapalombo
+43.300,13.453,5.1,Marche,11,Macerata,43,Macerata
+43.005,13.070,5.35,Marche,11,Macerata,43,Pieve Torina
+43.029,13.288,5.25,Marche,11,Macerata,43,Sarnano
+43.193,13.151,6.18,Marche,11,Macerata,43,Serrapetrona
+43.073,12.955,5.1,Marche,11,Macerata,43,Serravalle di Chienti
+42.895,12.994,5.03,Marche,11,Macerata,43,Visso
+42.908,12.975,5.48,Marche,11,Macerata,43,Visso
+42.904,13.090,6.07,Marche,11,Macerata,43,Visso
+43.837,13.018,5.1,Marche,11,Pesaro e Urbino,41,Fano
+43.737,13.138,5.48,Marche,11,Pesaro e Urbino,41,Mondolfo
+43.610,12.819,5.24,Marche,11,Pesaro e Urbino,41,Pergola
+43.596,12.512,6.51,Marche,11,Pesaro e Urbino,41,Piobbico
+43.664,12.411,5.1,Marche,11,Pesaro e Urbino,41,Sant'Angelo in Vado
+43.706,12.966,5.4,Marche,11,Pesaro e Urbino,41,Terre Roveresche
+41.500,14.474,6.68,Molise,14,Campobasso,70,Bojano
+41.716,14.893,5.74,Molise,14,Campobasso,70,Bonefro
+41.741,14.843,5.72,Molise,14,Campobasso,70,Casacalenda
+41.513,14.716,5.35,Molise,14,Campobasso,70,Gildone
+41.667,14.057,5.86,Molise,14,Isernia,94,Castel San Vincenzo
+41.719,14.188,5.26,Molise,14,Isernia,94,Forlì del Sannio
+41.557,14.202,5.2,Molise,14,Isernia,94,Sant'Agapito
+44.821,9.047,5.72,Piemonte,1,Alessandria,6,Brignano-Frascata
+44.688,8.803,5.1,Piemonte,1,Alessandria,6,Gavi
+44.761,8.909,5.26,Piemonte,1,Alessandria,6,Sardigliano
+44.846,7.316,5.34,Piemonte,1,Torino,1,Bricherasio
+45.036,7.306,5.22,Piemonte,1,Torino,1,Giaveno
+45.050,7.360,5.24,Piemonte,1,Torino,1,Giaveno
+45.272,7.502,5.1,Piemonte,1,Torino,1,Lanzo Torinese
+44.838,7.248,5.64,Piemonte,1,Torino,1,Luserna San Giovanni
+44.823,7.261,5.02,Piemonte,1,Torino,1,Luserna San Giovanni
+44.941,7.181,5.16,Piemonte,1,Torino,1,Pomaretto
+44.880,7.188,5.11,Piemonte,1,Torino,1,Pramollo
+41.249,16.485,5.66,Puglia,16,Barletta-Andria-Trani,110,Bisceglie
+41.205,15.561,6.03,Puglia,16,Foggia,71,Ascoli Satriano
+41.830,15.688,5.47,Puglia,16,Foggia,71,Cagnano Varano
+41.808,15.900,5.22,Puglia,16,Foggia,71,Carpino
+41.262,15.920,5.22,Puglia,16,Foggia,71,Cerignola
+41.600,15.800,5.4,Puglia,16,Foggia,71,Manfredonia
+41.500,15.900,5.37,Puglia,16,Foggia,71,Manfredonia
+41.762,16.097,5.02,Puglia,16,Foggia,71,Mattinata
+41.713,16.075,5.39,Puglia,16,Foggia,71,Mattinata
+41.721,15.865,5.05,Puglia,16,Foggia,71,Monte Sant'Angelo
+41.700,15.883,5.22,Puglia,16,Foggia,71,Monte Sant'Angelo
+41.790,15.971,5.15,Puglia,16,Foggia,71,Monte Sant'Angelo
+41.674,15.551,5.03,Puglia,16,Foggia,71,Rignano Garganico
+41.575,15.748,5.55,Puglia,16,Foggia,71,San Giovanni Rotondo
+41.732,15.558,5.69,Puglia,16,Foggia,71,San Marco in Lamis
+41.627,15.637,5.17,Puglia,16,Foggia,71,San Marco in Lamis
+41.689,15.677,5.86,Puglia,16,Foggia,71,San Marco in Lamis
+41.689,15.677,5.02,Puglia,16,Foggia,71,San Marco in Lamis
+41.737,15.342,6.66,Puglia,16,Foggia,71,San Severo
+41.685,15.381,5.8,Puglia,16,Foggia,71,San Severo
+41.758,15.328,6.03,Puglia,16,Foggia,71,San Severo
+41.597,15.358,5.8,Puglia,16,Foggia,71,San Severo
+41.726,15.393,5.96,Puglia,16,Foggia,71,San Severo
+41.687,15.337,5.33,Puglia,16,Foggia,71,San Severo
+41.274,15.757,6.33,Puglia,16,Foggia,71,Stornara
+41.905,15.993,6.72,Puglia,16,Foggia,71,Vico del Gargano
+40.502,17.433,5.22,Puglia,16,Taranto,73,Grottaglie
+37.508,13.083,5.1,Sicilia,19,Agrigento,84,Sciacca
+37.603,15.140,6.28,Sicilia,19,Catania,87,Aci Catena
+37.231,14.520,5.33,Sicilia,19,Catania,87,Caltagirone
+37.502,15.087,5.33,Sicilia,19,Catania,87,Catania
+37.270,14.742,5.56,Sicilia,19,Catania,87,Militello in Val di Catania
+37.292,14.789,5.66,Sicilia,19,Catania,87,Militello in Val di Catania
+37.659,15.149,5.15,Sicilia,19,Catania,87,Santa Venerina
+37.204,14.756,5.57,Sicilia,19,Catania,87,Vizzini
+37.862,14.413,5.33,Sicilia,19,Enna,86,Cerami
+37.750,14.400,5.15,Sicilia,19,Enna,86,Nicosia
+37.599,14.619,5.25,Sicilia,19,Enna,86,Regalbuto
+37.780,14.650,5.15,Sicilia,19,Enna,86,Troina
+37.816,14.614,5.1,Sicilia,19,Messina,83,Cesarò
+38.565,14.836,5.28,Sicilia,19,Messina,83,Leni
+38.081,14.982,5.33,Sicilia,19,Messina,83,Librizzi
+38.806,15.235,5.1,Sicilia,19,Messina,83,Lipari
+38.806,15.235,5.33,Sicilia,19,Messina,83,Lipari
+38.185,15.555,5.56,Sicilia,19,Messina,83,Messina
+38.185,15.555,5.33,Sicilia,19,Messina,83,Messina
+38.185,15.555,5.33,Sicilia,19,Messina,83,Messina
+38.185,15.555,5.8,Sicilia,19,Messina,83,Messina
+38.098,14.744,5.41,Sicilia,19,Messina,83,Mirto
+37.907,14.337,5.08,Sicilia,19,Messina,83,Mistretta
+38.059,15.036,5.11,Sicilia,19,Messina,83,Montalbano Elicona
+38.122,14.788,5.56,Sicilia,19,Messina,83,Naso
+38.102,15.021,6.14,Sicilia,19,Messina,83,Patti
+37.710,13.060,5.37,Sicilia,19,Palermo,82,Contessa Entellina
+37.939,14.042,5.37,Sicilia,19,Palermo,82,Isnello
+37.850,13.020,5.1,Sicilia,19,Palermo,82,Monreale
+37.860,12.990,5.45,Sicilia,19,Palermo,82,Monreale
+38.115,13.362,5.48,Sicilia,19,Palermo,82,Palermo
+38.076,13.429,5.29,Sicilia,19,Palermo,82,Palermo
+37.813,14.082,5.34,Sicilia,19,Palermo,82,Petralia Sottana
+37.989,13.677,5.02,Sicilia,19,Palermo,82,Termini Imerese
+36.915,14.686,5.1,Sicilia,19,Ragusa,88,Ragusa
+37.215,14.949,6.5,Sicilia,19,Siracusa,89,Carlentini
+37.215,14.944,6.68,Sicilia,19,Siracusa,89,Carlentini
+37.357,14.908,5.11,Sicilia,19,Siracusa,89,Lentini
+37.073,15.286,5.8,Sicilia,19,Siracusa,89,Siracusa
+37.141,15.035,6.07,Sicilia,19,Siracusa,89,Sortino
+37.797,12.447,5.1,Sicilia,19,Trapani,81,Marsala
+37.756,12.995,5.37,Sicilia,19,Trapani,81,Salaparuta
+37.756,12.981,6.41,Sicilia,19,Trapani,81,Salaparuta
+37.780,12.920,5.53,Sicilia,19,Trapani,81,Santa Ninfa
+43.697,11.816,5.1,Toscana,9,Arezzo,51,Bibbiena
+43.456,11.564,5.97,Toscana,9,Arezzo,51,Bucine
+43.469,12.127,6.31,Toscana,9,Arezzo,51,Monterchi
+43.620,12.091,5.4,Toscana,9,Arezzo,51,Pieve Santo Stefano
+43.774,11.716,5.1,Toscana,9,Arezzo,51,Pratovecchio Stia
+43.570,12.141,5.1,Toscana,9,Arezzo,51,Sansepolcro
+43.570,12.141,5.1,Toscana,9,Arezzo,51,Sansepolcro
+43.571,12.132,5.03,Toscana,9,Arezzo,51,Sansepolcro
+43.598,12.127,5.04,Toscana,9,Arezzo,51,Sansepolcro
+44.003,11.261,5.03,Toscana,9,Firenze,48,Barberino di Mugello
+44.006,11.385,6.02,Toscana,9,Firenze,48,Borgo San Lorenzo
+43.987,11.429,5.28,Toscana,9,Firenze,48,Borgo San Lorenzo
+44.002,11.431,5.01,Toscana,9,Firenze,48,Borgo San Lorenzo
+43.773,11.257,5.1,Toscana,9,Firenze,48,Firenze
+43.783,11.287,5.38,Toscana,9,Firenze,48,Firenze
+43.703,11.264,5.5,Toscana,9,Firenze,48,Impruneta
+43.659,11.140,5.24,Toscana,9,Firenze,48,Montespertoli
+44.010,11.359,5.1,Toscana,9,Firenze,48,Scarperia e San Piero
+44.042,11.282,5.11,Toscana,9,Firenze,48,Scarperia e San Piero
+44.004,11.506,5.14,Toscana,9,Firenze,48,Vicchio
+43.957,11.482,6.38,Toscana,9,Firenze,48,Vicchio
+44.074,10.489,5.64,Toscana,9,Lucca,46,Barga
+43.912,10.598,5.63,Toscana,9,Lucca,46,Capannori
+44.091,10.448,5.15,Toscana,9,Lucca,46,Gallicano
+44.185,10.278,6.53,Toscana,9,Lucca,46,Piazza al Serchio
+44.164,10.445,5.01,Toscana,9,Lucca,46,Pieve Fosciana
+44.250,10.283,5.61,Toscana,9,Lucca,46,Sillano Giuncugnano
+44.250,10.283,5.18,Toscana,9,Lucca,46,Sillano Giuncugnano
+44.250,10.283,5.05,Toscana,9,Lucca,46,Sillano Giuncugnano
+44.175,10.182,5.94,Toscana,9,Massa-Carrara,45,Casola in Lunigiana
+44.354,9.909,5.1,Toscana,9,Massa-Carrara,45,Filattiera
+44.274,10.130,5.6,Toscana,9,Massa-Carrara,45,Fivizzano
+44.138,10.133,5.27,Toscana,9,Massa-Carrara,45,Fivizzano
+44.131,10.136,5.36,Toscana,9,Massa-Carrara,45,Fivizzano
+44.432,9.859,5.96,Toscana,9,Massa-Carrara,45,Pontremoli
+44.234,9.862,5.26,Toscana,9,Massa-Carrara,45,Tresana
+44.329,9.953,5.19,Toscana,9,Massa-Carrara,45,Villafranca in Lunigiana
+43.301,10.619,5.15,Toscana,9,Pisa,50,Casale Marittimo
+43.635,10.355,5.12,Toscana,9,Pisa,50,Pisa
+43.470,10.562,6.04,Toscana,9,Pisa,50,Santa Luce
+43.965,10.821,5.1,Toscana,9,Pistoia,47,Marliana
+43.933,10.915,5.56,Toscana,9,Pistoia,47,Pistoia
+43.933,10.915,5.33,Toscana,9,Pistoia,47,Pistoia
+43.958,11.117,5.02,Toscana,9,Prato,100,Vaiano
+43.242,11.510,5.33,Toscana,9,Siena,52,Asciano
+43.171,11.537,5.19,Toscana,9,Siena,52,Asciano
+43.270,11.121,5.7,Toscana,9,Siena,52,Casole d'Elsa
+43.453,11.105,5.1,Toscana,9,Siena,52,Colle di Val d'Elsa
+43.085,11.535,5.15,Toscana,9,Siena,52,Montalcino
+43.133,11.200,5.09,Toscana,9,Siena,52,Monticiano
+43.150,11.403,5.34,Toscana,9,Siena,52,Murlo
+43.067,11.643,5.33,Toscana,9,Siena,52,Pienza
+43.436,11.344,5.08,Toscana,9,Siena,52,Radda in Chianti
+42.880,11.757,5.14,Toscana,9,Siena,52,Radicofani
+43.206,11.008,5.1,Toscana,9,Siena,52,Radicondoli
+42.885,11.867,5.29,Toscana,9,Siena,52,San Casciano dei Bagni
+43.318,11.332,5.1,Toscana,9,Siena,52,Siena
+43.318,11.332,5.1,Toscana,9,Siena,52,Siena
+43.318,11.332,5.1,Toscana,9,Siena,52,Siena
+43.322,11.331,5.05,Toscana,9,Siena,52,Siena
+46.930,11.320,5.16,Trentino-Alto Adige/Südtirol,4,Bolzano/Bozen,21,Racines/Ratschings
+43.055,12.543,5.57,Umbria,10,Perugia,54,Bastia Umbra
+42.980,12.605,6.43,Umbria,10,Perugia,54,Bevagna
+42.724,13.021,6.07,Umbria,10,Perugia,54,Cascia
+42.708,13.071,6.92,Umbria,10,Perugia,54,Cascia
+42.734,12.989,5.02,Umbria,10,Perugia,54,Cascia
+42.840,12.909,5.48,Umbria,10,Perugia,54,Cerreto di Spoleto
+43.003,11.999,5.02,Umbria,10,Perugia,54,Città della Pieve
+43.527,12.299,6.03,Umbria,10,Perugia,54,Città di Castello
+43.463,12.236,5.8,Umbria,10,Perugia,54,Città di Castello
+43.457,12.239,5.1,Umbria,10,Perugia,54,Città di Castello
+43.498,12.382,5.09,Umbria,10,Perugia,54,Città di Castello
+43.052,12.855,5.1,Umbria,10,Perugia,54,Foligno
+43.052,12.855,5.1,Umbria,10,Perugia,54,Foligno
+42.950,12.861,5.57,Umbria,10,Perugia,54,Foligno
+43.025,12.811,5.33,Umbria,10,Perugia,54,Foligno
+42.955,12.704,5.1,Umbria,10,Perugia,54,Foligno
+43.022,12.891,5.66,Umbria,10,Perugia,54,Foligno
+43.014,12.853,5.97,Umbria,10,Perugia,54,Foligno
+43.042,12.824,5.22,Umbria,10,Perugia,54,Foligno
+43.027,12.846,5.47,Umbria,10,Perugia,54,Foligno
+42.948,12.914,5.0,Umbria,10,Perugia,54,Foligno
+43.204,12.769,6.05,Umbria,10,Perugia,54,Gualdo Tadino
+43.255,12.826,5.42,Umbria,10,Perugia,54,Gualdo Tadino
+43.225,12.739,6.38,Umbria,10,Perugia,54,Gualdo Tadino
+43.185,12.756,5.1,Umbria,10,Perugia,54,Gualdo Tadino
+43.310,12.421,5.33,Umbria,10,Perugia,54,Gubbio
+43.351,12.577,5.1,Umbria,10,Perugia,54,Gubbio
+43.262,12.525,5.62,Umbria,10,Perugia,54,Gubbio
+43.467,12.129,5.99,Umbria,10,Perugia,54,Monte Santa Maria Tiberina
+42.851,12.673,5.46,Umbria,10,Perugia,54,Montefalco
+43.093,12.872,6.2,Umbria,10,Perugia,54,Nocera Umbra
+43.145,12.809,5.26,Umbria,10,Perugia,54,Nocera Umbra
+42.753,13.120,6.04,Umbria,10,Perugia,54,Norcia
+42.825,13.097,5.73,Umbria,10,Perugia,54,Norcia
+42.766,13.043,5.59,Umbria,10,Perugia,54,Norcia
+42.792,13.150,5.55,Umbria,10,Perugia,54,Norcia
+42.830,13.109,6.61,Umbria,10,Perugia,54,Norcia
+42.730,12.956,5.83,Umbria,10,Perugia,54,Poggiodomo
+42.857,13.018,6.49,Umbria,10,Perugia,54,Preci
+42.876,13.047,5.59,Umbria,10,Perugia,54,Preci
+42.832,13.015,5.58,Umbria,10,Perugia,54,Preci
+43.510,12.217,5.89,Umbria,10,Perugia,54,San Giustino
+42.877,12.884,5.19,Umbria,10,Perugia,54,Sellano
+42.906,12.920,5.19,Umbria,10,Perugia,54,Sellano
+42.898,12.898,5.62,Umbria,10,Perugia,54,Sellano
+42.736,12.737,5.33,Umbria,10,Perugia,54,Spoleto
+42.736,12.737,5.56,Umbria,10,Perugia,54,Spoleto
+42.736,12.737,5.1,Umbria,10,Perugia,54,Spoleto
+42.699,12.617,5.21,Umbria,10,Perugia,54,Spoleto
+42.736,12.737,5.1,Umbria,10,Perugia,54,Spoleto
+42.821,12.751,5.45,Umbria,10,Perugia,54,Spoleto
+42.765,12.788,5.1,Umbria,10,Perugia,54,Spoleto
+42.751,12.706,5.34,Umbria,10,Perugia,54,Spoleto
+42.877,12.747,5.1,Umbria,10,Perugia,54,Trevi
+43.285,12.314,5.1,Umbria,10,Perugia,54,Umbertide
+43.180,12.604,5.11,Umbria,10,Perugia,54,Valfabbrica
+43.183,12.583,5.28,Umbria,10,Perugia,54,Valfabbrica
+42.536,12.788,5.76,Umbria,10,Terni,55,Arrone
+42.517,12.521,5.33,Umbria,10,Terni,55,Narni
+42.721,12.091,5.56,Umbria,10,Terni,55,Orvieto
+42.595,12.593,5.12,Umbria,10,Terni,55,Terni
+42.532,12.714,5.06,Umbria,10,Terni,55,Terni
+42.590,12.641,5.03,Umbria,10,Terni,55,Terni
+46.089,12.380,6.06,Veneto,5,Belluno,25,Alpago
+46.159,12.383,6.29,Veneto,5,Belluno,25,Chies d'Alpago
+45.986,11.883,5.07,Veneto,5,Belluno,25,Seren del Grappa
+45.801,11.914,5.03,Veneto,5,Treviso,26,Asolo
+45.861,11.910,6.4,Veneto,5,Treviso,26,Cavaso del Tomba
+45.849,12.067,5.05,Veneto,5,Treviso,26,Crocetta del Montello
+45.803,11.825,5.53,Veneto,5,Treviso,26,San Zenone degli Ezzelini
+45.564,11.165,5.87,Veneto,5,Verona,23,Badia Calavena
+45.710,10.770,5.08,Veneto,5,Verona,23,Brenzone sul Garda
+45.267,11.015,6.52,Veneto,5,Verona,23,Isola della Scala
+45.749,10.785,5.07,Veneto,5,Verona,23,Malcesine
+45.632,10.729,5.16,Veneto,5,Verona,23,San Zeno di Montagna
