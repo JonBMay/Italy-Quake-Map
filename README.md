@@ -1,5 +1,7 @@
 # Italy-Quake-Maps
 
+The package is also avaiable at: https://zenodo.org/record/5840814, any use of this package from either source should be cited with the following DOI: 10.5281/zenodo.5840814 
+
 ## Citations
 The file contained inside the directory 'Epicenter' was produced and released by INGV with the following notes:
 	
@@ -39,5 +41,3 @@ B.ipynb:
   - In some cases the maps generated in Part B may not display properly due to plotting complexity, however the saved html file is correct.  
   - Earthquakes occuring at sea are ignored as the municipalities within the GeoJson files finish at the coast.  
   - Each of the Regional, Provincial and Municipal epicenter assignements in Part A contains a command to sort the data before storing it to a CSV file, this sorting may be removed to save time without effecting the plotting within Part B.  
-
-The package is also avaiable at: https://zenodo.org/record/5840814 and should be cited with the following DOI: 10.5281/zenodo.5840814 
