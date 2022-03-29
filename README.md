@@ -40,4 +40,4 @@ B.ipynb:
   - Earthquakes occuring at sea are ignored as the municipalities within the GeoJson files finish at the coast.  
   - Each of the Regional, Provincial and Municipal epicenter assignements in Part A contains a command to sort the data before storing it to a CSV file, this sorting may be removed to save time without effecting the plotting within Part B.  
 
-The package is also avaiable at: https://zenodo.org/record/5840814 and should be cited with the following DOI: 10.5281/zenodo.5840814
+The package is also avaiable at: https://zenodo.org/record/5840814 and should be cited with the following DOI: 10.5281/zenodo.5840814 
